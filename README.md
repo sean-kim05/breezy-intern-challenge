@@ -2,8 +2,12 @@
 
 Sean Kim · skim8705@gmail.com
 
+**Live site:** https://sean-kim05.github.io/breezy-intern-challenge/
+**Repo:** https://github.com/sean-kim05/breezy-intern-challenge
+
 Everything lives in one self-contained file: `breezy-intern-test.html`.
-No build tools, no server, no setup — just open it in a browser.
+No build tools, no server, no setup — just open it in a browser (the live
+URL above serves the same file).
 
 - **Part 1:** FAQ accordion bug fix (see explanation below and in `DECISIONS.md`)
 - **Part 2:** Dark mode / light mode toggle with smooth transitions
